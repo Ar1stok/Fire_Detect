@@ -6,7 +6,7 @@ We are a team working on improving an existing fire detector.
 ## Problem & Goal
 - We already have a ready-made fire detector, but as we know nothing is perfect, so this detector has some problems. The main problem is false alarms on various sources of lights, flashers, etc. Our goal is to create a classification model that will process the output from the main model and finally determine whether it is a fire or not.
 
-- У нас уже есть готовый детектор огня, но, как известно, нет ничего идеального, поэтому у этого извещателя есть некоторые проблемы. Основная проблема - ложные срабатывания на различные источники света, мигалки и т. д. Наша цель - создать классификационную модель, которая будет обрабатывать выходные данные основной модели и в итоге определять, пожар это или нет.
+- У нас уже есть готовый детектор огня, но, как известно, нет ничего идеального, поэтому у этого детектора есть некоторые проблемы. Основная проблема - ложные срабатывания на различные источники света, мигалки и т. д. Наша цель - создать классификационную модель, которая будет обрабатывать выходные данные основной модели и в итоге определять, огонь это или нет.
 
 
 ## Solution
