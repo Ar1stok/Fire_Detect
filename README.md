@@ -16,6 +16,11 @@ Find a classification model and train this model on the collected dataset, uploa
 - Собрать датасет, в котором будут только изображения огня и другие различные источники освещения, похожие на огонь.
 Найти модель классификации и обучить данную модель на собранном датасете, загрузить инференс модели на сервер и совместить эти две модели.
 
+## Metrics on test dataset
+- precision 0.96
+- recall 0.97
+- accuracy 0.97
+
 ## Team
 - [Ivan Sichkar](https://github.com/SichkarIvan)
 - [Pavel Krylov](https://github.com/Ar1stok)
