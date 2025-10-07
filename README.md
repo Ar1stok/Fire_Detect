@@ -19,7 +19,7 @@ Find a classification model and train this model on the collected dataset, uploa
 - Precision: 95% | Recall: 96% | Accuracy: 96%
 - 35% reduction in false alarms vs baseline detector
 - Real-time processing via Telegram bot interface
-- Снижение кол-ва ложных срабатываний на 50% по сравнению с базовым детектором 
+- Снижение кол-ва ложных срабатываний на 35% по сравнению с базовым детектором 
 - Обработка в реальном времени через интерфейс бота Telegram
 
 ## Team
