@@ -4,9 +4,9 @@
 We are a team working on improving an existing fire detector.
 
 ## Problem & Goal
-- We already have a ready-made fire detector, but as we know nothing is perfect, so this detector has some problems. The main problem is false alarms in 20% of cases on various sources of lights, flashers, etc. Our goal is to create a classification model that will process the output from the main model and finally determine whether it is a fire or not.
+- We already have a ready-made fire detector, but as we know nothing is perfect, so this detector has some problems. The main problem is false alarms on various sources of lights, flashers, etc. Our goal is to create a classification model that will process the output from the main model and finally determine whether it is a fire or not.
 
-- У нас уже есть готовый детектор огня, но, как известно, нет ничего идеального, поэтому у этого детектора есть некоторые проблемы. Основная проблема - ложные срабатывания в 20% случаев на различные источники света, мигалки и т. д. Наша цель - создать классификационную модель, которая будет обрабатывать выходные данные основной модели и в итоге определять, огонь это или нет.
+- У нас уже есть готовый детектор огня, но, как известно, нет ничего идеального, поэтому у этого детектора есть некоторые проблемы. Основная проблема - ложные срабатывания на различные источники света, мигалки и т. д. Наша цель - создать классификационную модель, которая будет обрабатывать выходные данные основной модели и в итоге определять, огонь это или нет.
 
 ## Solution
 - Assemble a dataset with only images of fire and other various lighting sources that look like fire.
@@ -17,9 +17,9 @@ Find a classification model and train this model on the collected dataset, uploa
 
 ## Key Results
 - Precision: 95% | Recall: 96% | Accuracy: 96%
-- 50% reduction in false alarms vs baseline detector (Reduction from 20% to 10% fasle alarms)
+- 35% reduction in false alarms vs baseline detector
 - Real-time processing via Telegram bot interface
-- Снижение кол-ва ложных срабатываний на 50% по сравнению с базовым детектором (с 20% до 10%)
+- Снижение кол-ва ложных срабатываний на 50% по сравнению с базовым детектором 
 - Обработка в реальном времени через интерфейс бота Telegram
 
 ## Team
